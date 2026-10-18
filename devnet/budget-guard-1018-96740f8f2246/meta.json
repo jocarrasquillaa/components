@@ -1,0 +1,6 @@
+{
+  "name": "Budget Guard 1018",
+  "symbol": "BGUARD",
+  "description": "Devnet manual verification of launch preflight budget blocking. Keep deferred until the operator tests launch.",
+  "image": "https://raw.githubusercontent.com/jocarrasquillaa/components/main/devnet/budget-guard-1018-96740f8f2246/image.png"
+}
